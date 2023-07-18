@@ -2,6 +2,9 @@
 
 This repository contains code that adds a signature field to the WooCommerce checkout process. Customers can digitally sign using a canvas element, and the signature data is saved in the order meta. The signature image is displayed on the "Thank You" page and in the order details.
 
+<img width="1243" alt="image" src="https://github.com/khairulimran-97/Signature-Checkout-Woocommerce/assets/105085586/fdcd98b4-786e-4568-8741-5c4ac00080c9">
+
+
 ## Requirements
 
 - WordPress
